@@ -1,4 +1,4 @@
-# SpeechEmotionAnalysis
+# MusicEmotionAnalysis
 ## This repository is my trial of emotion analysis using musics. I have uploaded my webscraper for scraping musics from <a>https://www.fesliyanstudios.com/</a>
 ## The scraped data contains seven classes. If you want to scrape the data :
 1. Clone the repository
