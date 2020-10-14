@@ -7,6 +7,25 @@
 4. run `python3 main.py`
 5. if you want to increase the speed of the download, just change the buffer size in Downloader.py
 
+## Chunking Large Audio Files into Equal smaller chunks
+**There are two methods to divide a large audio files into smaller chunks:**
+1. You can write a script using Pydub (<a>https://www.geeksforgeeks.org/audio-processing-using-pydub-and-google-speechrecognition-api/</a>) OR
+2. Use ffmpeg package to do this step for you using CLI version or the python-ffmpeg package(Official Document:<a>https://github.com/kkroening/ffmpeg-python</a>)
+
+  ### Code:
+  1. `cd` into the directory where the scraped data is stored.
+  2. `for file in *.mp3; do ffmpeg -i "$file" -f segment - segment_time 10 -c copy "${file:0:4}"%02d.mp3; done`
+  3. This command will create chunks for all large audio files contained in a directory.
+  4. The Chunks of the same song will have continious numbers with which you can identify the chunks of a same song. The original song will be retained separately
+
+**I used the second method with CLI version since I found that simple and easy for me. But, You can go with any of those two methods mentioned above**
+
+
+
+
+
+
+
 
 # TO-DO
 - [x] Scraping the data
