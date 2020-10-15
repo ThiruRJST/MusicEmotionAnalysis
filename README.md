@@ -10,7 +10,7 @@
 ## Chunking Large Audio Files into Equal smaller chunks
 **There are two methods to divide a large audio files into smaller chunks:**
 1. You can write a script using Pydub (<a>https://www.geeksforgeeks.org/audio-processing-using-pydub-and-google-speechrecognition-api/</a>) OR
-2. Use ffmpeg package to do this step for you using CLI version or the python-ffmpeg package(Official Document:<a>https://github.com/kkroening/ffmpeg-python</a>)
+2. Use ffmpeg package to do this step for you, using CLI version or the python-ffmpeg package(Official Document:<a>https://github.com/kkroening/ffmpeg-python</a>)
 
 **I used the second method with CLI version since I found that simple and easy for me. But, You can go with any of those two methods mentioned above**
 
