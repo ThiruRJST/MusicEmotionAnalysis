@@ -1,6 +1,6 @@
 # MusicEmotionAnalysis
 
-### Exploratory Data Analysis: <a>https://github.com/ThiruRJST/MusicEmotionAnalysis/blob/main/audioeda.ipynb</a>(*I would regularly update my EDA on the dataset*)
+### Exploratory Data Analysis: <a>https://www.kaggle.com/kingofarmy/audioeda</a>(*I would regularly update my EDA on the dataset*)
 
 This repository is my trial of emotion analysis using musics. I have uploaded my webscraper for scraping musics from <a>https://www.fesliyanstudios.com/</a>
 
