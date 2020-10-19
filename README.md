@@ -36,7 +36,7 @@ The scraped data contains seven classes. If you want to scrape the data :
 # TO-DO
 - [x] Scraping the data
 - [x] Chunking the audio files
-- [ ] Preprocessing and Augmentation
+- [x] Preprocessing and Augmentation
 - [ ] Architecture Design
 - [ ] Model Training
 - [ ] Testing the model
