@@ -2,7 +2,7 @@
 
 **Difference between happy and sad tunes**
 
-<img source="https://github.com/ThiruRJST/MusicEmotionAnalysis/blob/main/happy_tune.jpg"></img>
+![Happy Tune](https://github.com/ThiruRJST/MusicEmotionAnalysis/blob/main/happy_tune.jpg) ![Sad Tune](https://github.com/ThiruRJST/MusicEmotionAnalysis/blob/main/sad_tune.jpg)
 
 
 ### Exploratory Data Analysis: <a>https://www.kaggle.com/kingofarmy/audioeda</a>(*I would regularly update my EDA on the dataset*)
