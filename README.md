@@ -42,3 +42,9 @@ The scraped data contains seven classes. If you want to scrape the data :
 - [ ] Testing the model
 - [ ] Deployment
 
+
+
+
+
+
+### Link to our Computer-Vision community:https://discord.gg/7SJbNWw
