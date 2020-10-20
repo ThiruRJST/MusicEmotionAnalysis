@@ -1,5 +1,10 @@
 # MusicEmotionAnalysis
 
+**Difference between happy and sad tunes**
+
+<img source="https://github.com/ThiruRJST/MusicEmotionAnalysis/blob/main/happy_tune.jpg"></img>
+
+
 ### Exploratory Data Analysis: <a>https://www.kaggle.com/kingofarmy/audioeda</a>(*I would regularly update my EDA on the dataset*)
 
 This repository is my trial of emotion analysis using musics. I have uploaded my webscraper for scraping musics from <a>https://www.fesliyanstudios.com/</a>
